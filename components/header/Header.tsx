@@ -46,12 +46,22 @@ function Header({
   navItems = [
     {
       "@type": "SiteNavigationElement",
-      name: "Feminino",
+      name: "Roupas Femininas",
       url: "/",
     },
     {
       "@type": "SiteNavigationElement",
-      name: "Masculino",
+      name: "Roupas Masculinas",
+      url: "/",
+    },
+    {
+      "@type": "SiteNavigationElement",
+      name: "Acessórios",
+      url: "/acessorios",
+    },
+    {
+      "@type": "SiteNavigationElement",
+      name: "Infantil",
       url: "/",
     },
     {
